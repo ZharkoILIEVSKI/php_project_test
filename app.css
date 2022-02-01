@@ -1,0 +1,34 @@
+body 
+    {
+        padding: 50px;
+        background-color: white;   
+    }
+
+.container
+    {
+        justify-content: center;        
+    }
+
+
+    .col 
+    {
+        text-align: center;
+    }
+
+h1  
+    {
+        background-color: white;
+        border-bottom: red;
+        border-radius: 10px;
+        display: inline-block;
+        margin-right: 500px;
+    }    
+.btn btn-primary .btn btn-danger
+    {
+        display: inline-block;
+        justify-content: right;        
+    }
+footer
+    {
+        text-align: center;     
+    }
