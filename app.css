@@ -1,0 +1,177 @@
+body 
+    {
+        padding: 50px;
+        background-color: white;   
+    }
+
+.container
+    {
+        justify-content: center;        
+    }
+
+
+div.col 
+    {
+        text-align: center;
+        border-style: solid;
+        /* border-left-width: 0.5px; */
+        padding: 10px;
+        width: 200px;
+        height: 200px;
+        margin: 20px;
+        border-radius: 10px;
+    }
+
+h1  
+    {
+        background-color: white;
+        border-bottom: red;
+        border-radius: 10px;
+        display: inline-block;
+        margin-right: 500px;
+    }    
+.btn btn-primary .btn btn-danger
+    {
+        display: inline-block;
+        justify-content: right;        
+    }
+footer
+    {
+        text-align: center;     
+    }
+.fooline
+    {
+        margin-top: 20px;
+    }
+div.row
+    {
+        height: 200px;
+        width: 1000px;   
+        justify-content: center;
+    }
+.col-sm-2 col-form-label
+    {
+        height: 40px;
+        width: 100px;
+        align-self: center;
+    }
+.form-control
+    {
+        min-width: 200px;  
+        min-height: 40px;      
+    }
+div.row_form
+    {
+        width: 400px;
+        height: 50px;
+
+    }
+div.col-sm-10 
+    {
+       width: 200px; 
+    }   
+.col-xs-3
+    {
+        display: inline;      
+    }
+#sku
+    {
+        display: inline;
+    }
+#SKU_label
+    {
+        text-align: left;
+        border-style: none ;
+        border-left-width: 0.5px;
+        padding: 10px;
+        width: 300px;
+        height: 40px;
+        margin: 20px;
+        border-radius: 50px;
+    }
+#SKU_input
+    {
+        text-align: center;
+        border-style: none ;
+        border-left-width: 0.5px;
+        padding: 10px;
+        width: 200px;
+        height: 40px;
+        margin: 20px;
+        border-radius: 50px; 
+    }
+#productType
+    {
+        text-align: left;
+        border-style: none ;
+        border-left-width: 0.5px;
+        padding: none;
+        width: 200px;
+        height: 40px;
+        margin-left: 42px;
+        border-radius: 50px;
+        display: inline;     
+    }
+#row_sku
+    {
+        width: 400px;
+        height: 40px;  
+    }
+
+#typeSwitcher_label
+    {
+        text-align: left;
+        border-style: none ;
+        padding: none;
+        width: 200px;
+        height: 40px;
+        margin: 15px;
+        border-radius: none;
+        display: inline;             
+    }
+#size
+    {
+        height: 40;
+        width: 18%;
+        display: inline;
+        margin-left: 65px;
+    }
+#weight
+    {
+        height: 40;
+        width: 18%;
+        display: inline;
+        margin-left: 45px;
+    }
+#width
+    {
+        height: 40;
+        width: 18%;
+        display: inline;
+        margin-left: 50px;
+    }
+#height
+    {
+        height: 40;
+        width: 18%;
+        display: inline;
+        margin-left: 45px;
+    }
+#lenght   {
+        height: 40;
+        width: 18%;
+        display: inline;
+        margin-left: 45px;
+    }
+#labelSizeDVD
+    {
+        margin-right: 30px;
+        margin-left: 15px;
+        display: inline;
+        width: 100%;
+        height: 40px;
+    }
+.btn btn-primary
+    {
+        margin-right: 10px;
+    }
